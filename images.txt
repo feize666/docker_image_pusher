@@ -7,3 +7,8 @@ calico/kube-controllers:v3.23.5
 codemantn/vue-node
 aerialist7/maven-git
 srinivasansekar/javamvn
+prometheus:v2.28.0
+python:alpine3.19
+calico/kube-controllers:v3.23.5
+calico/node:v3.23.5
+calico/cni:v3.23.5
