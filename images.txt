@@ -1,1 +1,9 @@
 nginx:alpine
+redis:3.2
+registry
+mysql:5.7
+flannel/flannel:v0.25.5
+calico/kube-controllers:v3.23.5
+codemantn/vue-node
+aerialist7/maven-git
+srinivasansekar/javamvn
