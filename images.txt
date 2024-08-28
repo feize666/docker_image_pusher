@@ -1,4 +1,2 @@
-prom/prometheus:v2.28.0
-python:alpine3.19
-calico/node:v3.23.5
-calico/cni:v3.23.5
+docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
+docker.io/flannel/flannel:v0.25.6
