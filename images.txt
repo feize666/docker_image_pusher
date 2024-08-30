@@ -1,4 +1,2 @@
-openzipkin/zipkin:2.22
-consol/tomcat-7.0
 docker.io/kennethreitz/httpbin
 
