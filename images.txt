@@ -1,2 +1,2 @@
-docker.io/kennethreitz/httpbin
-
+myifeng/registry.k8s.io_ingress-nginx_controller:v1.4.0
+myifeng/registry.k8s.io_ingress-nginx_kube-webhook-certgen:v1.3.0
