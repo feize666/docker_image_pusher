@@ -1,1 +1,2 @@
-kodcloud/kodbox
+mariadb:10.6
+redis:alpine
