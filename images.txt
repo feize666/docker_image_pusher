@@ -1,2 +1,1 @@
-ricardbejarano/mysqld_exporter:0.15.1
-oliver006/redis_exporter:v1.74.0-alpine
+oliver006/redis_exporter:v1.77.0-alpine
