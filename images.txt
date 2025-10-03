@@ -1,1 +1,2 @@
-registry.k8s.io/metrics-server/metrics-server:v0.7.1
+mysqld-exporter:v0.15.1
+redis_exporter:v1.74.0-alpine 
