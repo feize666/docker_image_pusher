@@ -1,1 +1,1 @@
-oliver006/redis_exporter:v1.77.0-alpine
+registry.k8s.io/coredns/coredns:v1.12.3
