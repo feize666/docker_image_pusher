@@ -1,1 +1,2 @@
-jumpserver/jms_all:v4.10.16
+bitnami/kafka:latest
+zookeeper:3.9.5-jre-17
