@@ -1,2 +1,1 @@
-bitnami/kafka:latest
 zookeeper:3.9.5-jre-17
