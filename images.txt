@@ -1,1 +1,1 @@
-haproxy:3.3.7
+ghcr.io/aquasecurity/trivy-db:2
