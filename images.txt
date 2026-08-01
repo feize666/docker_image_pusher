@@ -1,1 +1,1 @@
-public.ecr.aws/aquasecurity/trivy-db:2
+docker.io/library/python:3.11-slim
